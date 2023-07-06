@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michahide
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on game projects
+- 👀 I’m interested in Game Development and Web Development
+- 🌱 I’m currently learning Unity, Next JS
+- 💞️ I’m looking to collaborate on game and web projects
 - 📫 How to reach me michaelruswan@gmail.com
 
 <!---
