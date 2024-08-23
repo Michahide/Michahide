@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michahide
+- 👋 Hi, I’m Michael Mervin Ruswan
 - 👀 I’m interested in Game Development and Web Development
 - 🌱 I’m currently learning Unity, Next JS
 - 💞️ I’m looking to collaborate on game and web projects
