@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Michael Mervin Ruswan
+- ✨ I’m a Fullstack Developer
+- ⚙️ Main tech stack I’m using is Next JS and Laravel
 - 👀 I’m interested in Game Development and Web Development
-- 🌱 I’m currently learning Unity, Next JS
 - 💞️ I’m looking to collaborate on game and web projects
 - 📫 How to reach me michaelruswan@gmail.com
 
